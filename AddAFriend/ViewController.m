@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 ProjectDGW. All rights reserved.
 //
 
+// Bonjour, it's Vincent!
+
 #import "ViewController.h"
 
 @interface ViewController ()
